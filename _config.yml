@@ -5,7 +5,7 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: niliang.com
-url: http://niliang107.github.io
+title: BeiYuu.com
+url: http://beiyuu.com
 feed: /atom.xml
-author_info: <a href="http://niliang107.github.io">niliang</a>
+author_info: <a href="http://beiyuu.com/">BeiYuu</a>

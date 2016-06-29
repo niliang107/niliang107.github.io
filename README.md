@@ -1,17 +1,12 @@
-# niliang107.github.io
+#一点点说明
 
-http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html
-常用命令
-$ git clone git@github.com:username/username.github.com.git //本地如果无远程代码，先做这步，不然就忽略
+这是[BeiYuu.com](http://beiyuu.com)的源码，如果你看了[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)，希望看下去哦：
 
-$ cd .ssh/username.github.com //定位到你blog的目录下
+* 马上动手，很赞
+* 感谢认可
+* 推荐阅读：[我为什么写博客？](http://beiyuu.com/why-blog/)
+* 想复用我的设计，没问题，标个出处就好啦
+* 转载也没问题，标个出处呗少年
+* 恩，认真的童鞋最可爱啦~
 
-$ git pull origin master //先同步远程文件，后面的参数会自动连接你远程的文件
-
-$ git status //查看本地自己修改了多少文件
-
-$ git add . //添加远程不存在的git文件
-
-$ git commit * -m "what I want told to someone"
-
-$ git push origin master //更新到远程服务器上
+###请删掉统计代码哦 /_layouts/default.html L38-41
