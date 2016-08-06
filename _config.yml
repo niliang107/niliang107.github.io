@@ -4,7 +4,6 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: 生命不止于动
 url: "http://niliang107.github.io/" # the base hostname & protocol for your site
@@ -14,3 +13,7 @@ author_info: <a href="http://niliang107.github.io/">niliang</a>
 github_username:  niliang107
 # Build settings
 markdown: kramdown
+highlighter: pygments
+gems: [jekyll-paginate]
+# paginate: 8
+# paginate_path: "page:num"
